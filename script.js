@@ -48,7 +48,7 @@ gsap.to("#page2>h1>span",{
         end:`bottom top`,
         scroller:`#main`,
         scrub:.5,
-        markers:true,
+        // markers:true,
     },
     stagger:.2,
     color:`#fff`
@@ -422,7 +422,7 @@ gsap.to("#page6>h1>span",{
         end:`bottom top`,
         scroller:`#main`,
         scrub:.5,
-        markers:true,
+        // markers:true,
     },
     stagger:.4,
     color:`#fff`
@@ -682,7 +682,7 @@ gsap.to(".page7-cir-inner",{
         trigger:`.page7-cir-inner`,
         start:`top centre`,
         end:`bottom top`,
-        markers:true,
+        // markers:true,
         scroller:`#main`,
         scrub:.5
     },
